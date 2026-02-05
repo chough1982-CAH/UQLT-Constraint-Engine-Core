@@ -1,58 +1,89 @@
-# UQLT-Constraint-Engine-Core
-Frozen, falsifiable constraint-only core of the Unified Quantum Life Theory (UQLT). Defines load-bearing constraints, update semantics, and failure conditions, with a minimal reference implementation and adversarial law-removal tests. No interpretation, ontology, or application is included.
+# UQLT Constraint Engine — Core Methods Spine
 
+## Authorship & Origin
+Author: Clayton Andrew Houghland  
+Original Theory: Unified Quantum Life Theory (UQLT)  
+Canonical Origin Date: June 20, 2025  
 
-# UQLT-Constraint-Engine-Core
-
-## Overview
-
-This repository records the **constraint-only, falsifiable core engine** underlying the Unified Quantum Life Theory (UQLT).
-
-It defines a closed, prohibition-driven dynamical system specified entirely by explicit constraints, update semantics, admissible halt and failure conditions, and adversarial falsification via single-law removal.
-
-No interpretation, ontology, or application is included.
+This repository is an original, independently authored scientific methods work created solely by the author named above. It is formally and explicitly linked to the Unified Quantum Life Theory (UQLT), first authored and fixed on June 20, 2025.
 
 ---
 
-## Scope
+## Legal Status & Intellectual Property Notice
 
-This repository includes only:
+This work is automatically protected under international copyright law, including but not limited to the Berne Convention for the Protection of Literary and Artistic Works.
 
-- The frozen methods specification of the UQLT constraint engine
-- Explicit load-bearing constraints
-- Formal falsification criteria
-- A minimal, reproducible reference implementation
-- Adversarial law-removal verification
+All rights are expressly reserved.
 
----
+No license is granted — explicitly or implicitly.
 
-## Non-Scope
+### Prohibited Without Explicit Written Permission
+The following actions are strictly forbidden:
 
-This repository intentionally excludes:
+- Reuse, reproduction, or redistribution of this material (in whole or in part)
+- Modification, rewording, abstraction, or derivative works
+- Incorporation into any other theory, framework, model, or publication
+- Use in books, documentaries, lectures, courses, textbooks, or educational materials
+- Use by individuals, institutions, corporations, or research groups
+- Use for training, fine-tuning, prompting, or dataset construction for any AI system
+- Retroactive transfer, sublicensing, or third-party redistribution of any kind
 
-- Physical interpretation
-- Cosmological, planetary, biological, or life claims
-- Forces, spacetime constructs, or optimization principles
-- Parameter fitting, tuning, or empirical alignment
-- Visualization, narrative explanation, or metaphor
-
-Any applied, interpretive, or derivative work must occur **only with the express written permission of the author**.
+No portion of this repository may be used to construct or support another theory, model, or explanatory framework without the explicit, written consent of the author.
 
 ---
 
-## Authorship and Origin
+## Scope of This Repository
 
-This work is authored by **Clayton Andrew Houghland**.
+This repository contains a methods-grade constraint engine and falsification framework.
 
-The original conception, authorship, and foundational framework of the Unified Quantum Life Theory (UQLT) date to **June 20, 2025**.  
-This repository records a formalized core artifact derived from that framework and serves as its authoritative methods spine.
+It exists to:
+- Define a closed, constraint-only system
+- Specify falsifiable rules and failure conditions
+- Provide reproducible reference implementations
+- Demonstrate structural load-bearing verification
+
+This repository does not:
+- Claim cosmological identity
+- Replace existing physical models
+- Provide interpretive mappings to legacy physics
+- Make predictive or metaphysical claims
+
+Interpretation, application, or extension beyond what is explicitly contained here is not granted.
 
 ---
 
-## Rights and Restrictions (IMPORTANT)
+## Structure & Navigation
 
-All contents of this repository are **original works** protected under **international copyright law**, including the **Berne Convention for the Protection of Literary and Artistic Works**, upon creation and public disclosure.
+This README is not the theory.
 
+Core materials are located in separate files within this repository, including but not limited to:
+- Methods spine documents
+- Adversarial falsification reports
+- Minimal reference implementations
+- Regression and removal test harnesses
+
+Readers are expected to treat each file as self-contained and governed by the same restrictions stated above.
+
+---
+
+## Attribution Requirement
+
+If reference to this work is permitted by the author in the future, attribution must include:
+- Author name: Clayton Andrew Houghland
+- Theory name: Unified Quantum Life Theory (UQLT)
+- Original authorship date: June 20, 2025
+
+No paraphrased, anonymized, or indirect attribution is acceptable.
+
+---
+
+## Final Notice
+
+This repository is published for record, priority, and falsifiability purposes only.
+
+Nothing herein is offered for public domain use, open research pooling, or collaborative modification.
+
+Unauthorized use constitutes infringement.
 **All rights are expressly reserved.**
 
 No permission is granted — implicitly or explicitly — for any of the following without the **prior written consent of the author**:
